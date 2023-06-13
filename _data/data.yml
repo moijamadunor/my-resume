@@ -114,19 +114,14 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Communication skills
-        level: 100%
 
       - name: Organization skills
-        level: 100%
 
       - name: Effective writing skills
-        level: 100%
-
-      - name: Creativity
-        level: 100%
 
       - name: Computer proficiency skills
-        level: 100%
 
       - name: Teamwork skills 
-        level: 100%
+
+      - name: Creativity
+        
