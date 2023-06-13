@@ -17,7 +17,7 @@ sidebar:
     timezone: GMT+2 
     citizenship: Liberian
     website: moijama.github.io/online-cv/ #do not add http://
-    linkedin: moijama
+    linkedin: moijama-l-dunor-46a482190
     github: moijamadunor
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -58,19 +58,22 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: Certificate of participation in Seminar for Young Liberian Diplomats
+        university: Renmin University of China
+        time: 11/2022 - 12/2022
       - degree: MSc Candidate
         university: Cuttington University, Congo Town, Monrovia,Liberia
         time: 2021 - Current
       - degree: BSc Biology
         university: University of Liberia
         time: 2015 - 2020
-      - degree: Certificate Of Leadership and Politics
+      - degree: Certificate of Leadership and Politics
         university: Young Political Leadership School. Paynesville, Liberia
-        time: 2018 - 2018
-      - degree: Certificate Of Leadership
+        time: 09/2018 - 09/2018
+      - degree: Certificate of Leadership
         university: Kofi Annan Institute of Peace and Conflict Resolution. University Of Liberia
-        time: 2016 - 2016
-      - degree: Certificate Of Leadership
+        time: 07/2016 - 10/2016
+      - degree: Certificate of Leadership
         university: GATE Africa Liberia INC. Sandfield Community, Clara Town, Bushrod Island,Monrovia, Liberia
         time: 2018 - 2019
 experiences:
