@@ -13,13 +13,13 @@ sidebar:
 
     # Sidebar links
     email: moijamaldunor1996@gmail.com
-    phone: + 33771323656
-    timezone: GMT+2 
+    phone: +16469430249
+    timezone: GMT -4 
     citizenship: Liberian
     website: moijamadunor.github.io/online-cv/ #do not add http://
     linkedin: moijama-l-dunor-46a482190
     github: moijamadunor
-    telegram: + 33771323656 # add your nickname without '@' sign
+    telegram: +33771323656 # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@moijama'
@@ -49,12 +49,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A Young Diplomat, Political Activist and National Women Leader. 
-      Have over eight years’ experience volunteering in the local community and actively involved in youth engagement and empowerment,
-      social entrepreneurship and social justice advocacy through various Civil Society Organizations in Liberia.
-
-      Also served diligently at the National Young Women Political Council as the National Vice Chair.
-      Have good understanding on Diplomatic Engagements, Communication and Etiquette.
+      I am a diplomat, political activist, and national women leader with three years of experience working as a diplomat and over eight years of experience volunteering in the local community. I am actively involved
+      in youth engagement and empowerment, social entrepreneurship, and social justice advocacy through various civil society organizations in Liberia. I have also served as the National Vice Chair at the National Young Women Political Council. 
+      
+      I have a good understanding of diplomatic engagements, communication, and etiquette.
 education:
     title: Education
     info:
@@ -67,10 +65,10 @@ education:
       - degree: MSc Candidate
         university: Cuttington University, Congo Town, Monrovia,Liberia
         time: 2021 - Current
-      - degree: BSc Biology
+      - degree: BSc Biological Sciences
         university: University of Liberia
         time: 2015 - 2020
-      - degree: Certificate of Leadership and Politics
+      - degree: Certificate of Peace and Conflict Resolution
         university: Young Political Leadership School. Paynesville, Liberia
         time: 09/2018 - 09/2018
       - degree: Certificate of Leadership
